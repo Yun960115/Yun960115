@@ -36,5 +36,5 @@
                   <span><img src="https://img.shields.io/badge/Google%20Docs-4479A1?style=flat&logo=Google%20Sheets&logoColor=white"/></span>
                   
                   
-## Portfolio Website - <a href="https://lyg-portfolio.netlify.app">Here</a>
+## 📝 Portfolio Website - <a href="https://lyg-portfolio.netlify.app">Here</a>
 ![gitMain](https://user-images.githubusercontent.com/110517088/194539138-203f04f8-57bc-45f9-914e-6b8ec2a83c12.jpg)
