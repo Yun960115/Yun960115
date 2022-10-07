@@ -2,7 +2,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Yun960115&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+<!-- 아직은 부족해서 주석처리 !!
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Yun960115&layout=compact&theme=dracula)
+-->
 
 ## 🙋‍♂️ Personal Info
 - Lee Yun Gyeong
