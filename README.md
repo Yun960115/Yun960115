@@ -10,5 +10,11 @@
 - yglove96@naver.com
 
 ## 🔨 Technology Stacks
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/>
+- Back-End :  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+              <img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/>
+- Front-End : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- DBMS : 
+- Deployment : 
+- Server : 
+- Tools : 
+- Collaboration
