@@ -37,4 +37,4 @@
                   
                   
 ## 📝 Portfolio Website - <a href="https://lyg-portfolio.netlify.app">Here</a>
-![gitMain](https://user-images.githubusercontent.com/110517088/194539138-203f04f8-57bc-45f9-914e-6b8ec2a83c12.jpg)
+![portfolio img](https://user-images.githubusercontent.com/110517088/207001987-5ddf5fe1-391a-4568-b1cb-73b26afc7b5e.jpg)
